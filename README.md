@@ -80,6 +80,7 @@ Test CalculateWeightedStockPrice_After_5mins_should_have_no_more_trade_Test take
 JaCoCo has been used to demonstrate the importance of test coverage as a best practice in every software development.
 
 ```
-Navigate to .../target/site/jacoco/index.html
+* mvn clean package
+* Navigate to .../target/site/jacoco/index.html
 ```
 
